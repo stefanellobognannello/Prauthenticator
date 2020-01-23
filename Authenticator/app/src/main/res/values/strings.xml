@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Authenticator</string>
+
+    <string name="instructions">  Place your fingertip on the Home button to verify your identity</string>
+
+    <string name="message_beaming_complete">Beaming complete</string>
+
+    <string name="instructions2">Place your phone next to the totem</string>
+
+
+</resources>
